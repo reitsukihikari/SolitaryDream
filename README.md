@@ -1,6 +1,6 @@
 # Solitary Dream
 
-*Arcaea Fanmade RPG*
+*Arcaea Fanmade RPGMaker Game*
 
 ## Table of Contents
 
